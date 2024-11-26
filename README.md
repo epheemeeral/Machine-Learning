@@ -6,4 +6,4 @@
 - [Деревья решений](https://github.com/epheemeeral/Machine-Learning/blob/main/3.4.ipynb)
 - [Метод K блиайших соседей](https://github.com/epheemeeral/Machine-Learning/blob/main/3.5.ipynb)
 - [Наивный байесовский классификатор](https://github.com/epheemeeral/Machine-Learning/blob/main/3.6.ipynb)
-- [Метрики эффективности моделей машинного обучения](https://github.com/epheemeeral/Machine-Learning/blob/main/3.7.ipynb)
+- [Метрики эффективности моделей машинного обучения](https://github.com/epheemeeral/Machine-Learning/blob/main/4.1.ipynb)
